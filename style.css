@@ -48,7 +48,7 @@ header > p{
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
-    margin-bottom: 30px;
+    padding-bottom: 30px;
 }
 nav{
     background-color: var(--cor4);
